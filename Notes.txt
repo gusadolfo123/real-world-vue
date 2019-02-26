@@ -1,5 +1,16 @@
 
 Configuracion de vue-routes
 
+npm i lodash
 
+-- para simular servidor con un json file db.json
+npm i -g json-server
+json-server --watch db.json 
+
+npm i axios
+
+-- para validar librerias desactualizadas
+npm outdated
+-- para actualizar todas las librerias
+npm update
 
